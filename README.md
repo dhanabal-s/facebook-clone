@@ -7,4 +7,4 @@ Connection is cloning web application of Facebook.
 
 <hr>
 
-[!index page](https://user-images.githubusercontent.com/43275764/90799580-0e3cf500-e331-11ea-8945-7aab8102ee58.png)
+![index page](https://user-images.githubusercontent.com/43275764/90799580-0e3cf500-e331-11ea-8945-7aab8102ee58.png)
