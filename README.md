@@ -1,6 +1,6 @@
 # Connection
 Connection is cloning web application of Facebook.
 
-**Front-end : EmberJS**
-**Back-end : Java, JavaSevlets**
-**DB : MYSQL**
+**Front-end : EmberJS**<br>
+**Back-end : Java, JavaSevlets**<br>
+**DB : MYSQL**<br>
