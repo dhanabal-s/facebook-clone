@@ -1,8 +1,8 @@
 # Connection
 An attempt at creating a social media platform like Facebook.
 
-**Front-end : EmberJS**<br>
-**Back-end : Java, JavaSevlets**<br>
+**Front-end : Ember.js**<br>
+**Back-end : JavaSevlets**<br>
 **DB : MYSQL**<br>
 
 <hr>
