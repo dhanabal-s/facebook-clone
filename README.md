@@ -1,5 +1,5 @@
 # Connection
-Connection is cloning web application of Facebook.
+An attempt at creating a social media platform like Facebook.
 
 **Front-end : EmberJS**<br>
 **Back-end : Java, JavaSevlets**<br>
