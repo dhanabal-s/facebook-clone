@@ -2,7 +2,7 @@
 An attempt at creating a social media platform like Facebook.
 
 **Front-end : Ember.js**<br>
-**Back-end : JavaSevlets**<br>
+**Back-end : Java, Sevlets**<br>
 **DB : MYSQL**<br>
 
 <hr>
